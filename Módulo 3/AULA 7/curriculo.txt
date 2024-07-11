@@ -1,0 +1,15 @@
+Nome: igor
+Idade: 19
+Email: sbajksjdjj@gmail.com
+Telefone: 2144444444
+Endereço: rua zumba
+
+Formação Acadêmica:
+- Curso: excel, Instituição: senac, Ano de Conclusão: 2023
+
+Experiências Profissionais:
+- Cargo: ajudante de cozinha, Empresa: princesa, Período: 2023-2323
+  Responsabilidades: limpar cozinha
+
+Habilidades:
+- aprender rapido e responsavel

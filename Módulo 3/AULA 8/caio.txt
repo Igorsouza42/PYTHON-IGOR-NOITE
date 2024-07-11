@@ -1,0 +1,7 @@
+Nome: caio
+Endereço: rua
+CPF: 20005594439394
+Email: sdfnspjdfs@gmai.com
+CEP: 222994944
+Idade: 24
+Telefone: 2188888888

@@ -1,0 +1,7 @@
+Nome: Igor de Souza Barbosa
+Endereço: Rua Zumba 
+CPF: 22775200
+Email: sbigor@gmail.com
+CEP: 22222244
+Idade: 20
+Telefone: 219999999999
